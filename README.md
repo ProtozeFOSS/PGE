@@ -1,2 +1,32 @@
-# PGE
-Protoze Game Engine - Provides resources and classes to ease building games with Qt/Qml
+#***PGE***
+*Protoze Game Engine* - Provides resources and classes to ease building games with *Qt/Qml*
+
+An almost insane :grimacing: but long over due effort to make a game and API engine.
+
+There will be many systems involved and I will make my best effort to document them along the way.
+
+
+
+#*Proposed Systems (TBD):*
+
+
+**Tile Based Map Engine -** [Map System](https://github.com/ProtozeFOSS/PGE/raw/master/docs/MapSystem)
+![Tile Map Engine High Level](/docs/MapSystem/images/Map Format and Loading.png)
+
+
+
+
+
+
+*... More to come.*
+
+#*Known Bugs and Current Development:*
+- [ ] *Establish Engine Design* - Make sure I am not recreating work.
+- [ ] *Establish A Team* - it is hard to build a game engine on my own.
+- [ ] *Upload to Github* as often as possible to keep transparency
+
+#*Contributors:*
+* [Christopher Dean](https://github.com/Tpimp) *Lead Developer* :muscle:   *Project Manager*  :bowtie:
+
+#*Licensing:*
+[Mit License](https://github.com/ProtozeFOSS/PGE/raw/master/LICENSE) :neckbeard:
