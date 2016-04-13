@@ -15,8 +15,8 @@ There will be many systems involved and I will make my best effort to document t
 
 
 **Protoze Render Strategy -** [Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/RenderEngine)
-![Render Top Level](https://github.com/ProtozeFOSS/PGE/raw/master/docs/RenderEngine/images/Rendering Engine.png)
-![Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/RenderEngine/images/Render Strategy for Scene (Scene Topology).png)
+![Render Top Level](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Rendering Engine.png)
+![Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Render Strategy for Scene (Scene Topology).png)
 
 
 **Protoze Resource Loader -** [Resource Loader](https://github.com/ProtozeFOSS/PGE/raw/master/docs/ResourceLoader)
