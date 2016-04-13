@@ -14,7 +14,7 @@ There will be many systems involved and I will make my best effort to document t
 ![Tile Map Engine High Level](/docs/MapSystem/images/Map Format and Loading.png)
 
 
-**Protoze Render Strategy -** [Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/RenderEngine)
+**Protoze Render Strategy -** [Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine)
 ![Render Top Level](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Rendering Engine.png)
 ![Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Render Strategy for Scene (Scene Topology).png)
 
