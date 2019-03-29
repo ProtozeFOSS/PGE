@@ -11,16 +11,16 @@ There will be many systems involved and I will make my best effort to document t
 
 
 **Tile Based Map Engine -** [Map System](https://github.com/ProtozeFOSS/PGE/raw/master/docs/MapSystem)
-![Tile Map Engine High Level](/docs/MapSystem/images/Map Format and Loading.png)
+![Tile Map Engine High Level](/docs/MapSystem/images/Map%20Format%20and%20Loading.png)
 
 
 **Protoze Render Strategy -** [Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine)
-![Render Top Level](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Rendering Engine.png)
-![Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render Engine/images/Render Strategy for Scene (Scene Topology).png)
+![Render Top Level](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render%20Engine/images/Rendering%20Engine.png)
+![Render Engine](https://github.com/ProtozeFOSS/PGE/raw/master/docs/Render%20Engine/images/Render%20Strategy%20for%20Scene%20(Scene%20Topology).png)
 
 
 **Protoze Resource Loader -** [Resource Loader](https://github.com/ProtozeFOSS/PGE/raw/master/docs/ResourceLoader)
-![Resource Loading](https://github.com/ProtozeFOSS/PGE/raw/master/docs/ResourceLoader/images/PGE Scene Builder.png)
+![Resource Loading](https://github.com/ProtozeFOSS/PGE/raw/master/docs/ResourceLoader/images/PGE%20Scene%20Builder.png)
 
 Resource storage/loading is a crucial part of large games. Artwork and sounds are only one element of the massive resource cache games use.
 
